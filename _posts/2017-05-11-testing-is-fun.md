@@ -1,0 +1,3 @@
+[b]Testing the Markdown stuff.[/b]
+(Because playing with Google is fun.)[google.com]
+[color=#AF1236]And colors are sometimes my forte.[/color]
