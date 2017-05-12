@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Testing Jekyll Post"
+title: "Testing is Fun"
 date: 2017-05-12
 ---
 
