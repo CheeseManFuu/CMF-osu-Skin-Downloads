@@ -1,4 +1,7 @@
 ---
+layout: post
+title: "Testing is Fun"
+date: 2017-05-12
 ---
 
 [b]Testing the Markdown stuff.[/b]
