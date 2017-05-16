@@ -15,7 +15,7 @@ Testarossa
 > + Added
 > + Added
 
-
+* * *
 
 ## CMF v.17-02-10
 
@@ -34,7 +34,7 @@ Testarossa
 > + Added
 > + Added
 
-
+* * *
 
 ## CMF v.17-01-29
 
@@ -53,7 +53,7 @@ Testarossa
 > + Added
 > + Added
 
-
+* * *
 
 ## CMF v.17-01-15
 
@@ -72,7 +72,7 @@ Testarossa
 > + Added
 > + Added
 
-
+* * *
 
 ## CMF v.16-12-11
 
@@ -85,7 +85,7 @@ Vanilla
 > + Added
 > + Added
 
-
+* * *
 
 ## CMF v.16-11-17
 
@@ -93,7 +93,14 @@ Downloads:
 
 Vanilla
 
-> + Added
-> + Added
-> + Added
-> + Added
+> + The birth of something new.
+> + Gang of Three font hit judge numbers and score numbers
+> + Custom Menu Backgrounds (see picture credits.txt)
+> + Music Warrior font ranks and menu buttons/titles
+> + Custom, basic ranking menu
+> + Music Warriot font Modifier buttons
+> + Custom Spinner meter
+> + Custom is sometimes lightly used
+> + Custom Section Pass/Fail
+> + Monochrome Hitcircles/Sliders
+> + Red cursor stolen and changed from Shige's skin and SameSkinButNoRingHitCirclesWeirdName
