@@ -13,13 +13,13 @@ The root of the skins' folder contains a document called "picture credits.txt." 
 
 Downloads:
 
-[Vanilla](https://puu.sh/vSnOC/07ceb0817a.osk)
+[Vanilla](https://puu.sh/vSnOC/07ceb0817a.osk) - [Screenshots](http://imgur.com/a/ZGQgt)
 
-[Spectator](https://puu.sh/vSnPJ/972769ec2c.osk)
+[Spectator](https://puu.sh/vSnPJ/972769ec2c.osk) - [Screenshots](http://imgur.com/a/6EaP9)
 
-[Yuyuko](https://puu.sh/vSnQC/0a1dd45dde.osk)
+[Yuyuko](https://puu.sh/vSnQC/0a1dd45dde.osk) - [Screenshots](http://imgur.com/a/or94T)
 
-[Testarossa](https://puu.sh/vSnR6/2c09af09e4.osk)
+[Testarossa](https://puu.sh/vSnR6/2c09af09e4.osk) - [Screenshots](http://imgur.com/a/DDhEG)
 
 > + New Hitcircle number font (Ubuntu-Title)
 > + New Score numbers font (Days)
