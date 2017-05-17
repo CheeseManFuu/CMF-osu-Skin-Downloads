@@ -98,7 +98,7 @@ Downloads:
 
 [Yuyuko](http://puu.sh/ulC2n/3a1dcc8032.osk)
 
-[Testarossa](http://puu.sh/ulC4b/e3c4247f90.osk
+[Testarossa](http://puu.sh/ulC4b/e3c4247f90.osk)
 
 > + Added another version; getting rid of waifus because some people are "cleaner" than others
 > + Added Hijiri portraits to vanilla skin, will improve later
