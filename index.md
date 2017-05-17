@@ -23,6 +23,7 @@ Downloads:
 
 > + New Hitcircle number font (Ubuntu-Title)
 > + New Score numbers font (Days)
+> 
 > Small bump for new github page
 
 
@@ -119,6 +120,7 @@ Downloads:
 > + New fail background
 > + New Section Pass/Fails
 > + Changed hitcircle, experimenting with new sliderball
+> 
 > Mostly a bump for the vanilla version, just to get the new versions out quickly
 
 * * *
@@ -140,6 +142,7 @@ Downloads:
 >   + Perfect combo is pretty
 > + New Cleared Spinner Indicator
 > + New Spinner RPM meter
+> 
 > Remember older things/changed things can be found in previous versions or the /alternates/ folder
 
 * * *
