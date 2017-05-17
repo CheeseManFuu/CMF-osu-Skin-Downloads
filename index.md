@@ -26,6 +26,7 @@ Downloads:
 > 
 > Small bump for new github page
 
+* * *
 
 ## CMF v.17-04-27
 
@@ -109,11 +110,11 @@ Downloads:
 
 Downloads:
 
-[Vanilla](http://puu.sh/tGfcE/99f0a0efb5.osk)
+[Vanilla](http://puu.sh/tGfcE/99f0a0efb5.osk) - [Screenshots](http://imgur.com/a/6nhEN)
 
-[Yuyuko](http://puu.sh/tGfdK/3884907cb1.osk)
+[Yuyuko](http://puu.sh/tGfdK/3884907cb1.osk) - [Screenshots](http://imgur.com/a/MDXpE)
 
-[Testarossa](http://puu.sh/tMfPs/5d61eb591e.osk)
+[Testarossa](http://puu.sh/tMfPs/5d61eb591e.osk) - [Screenshots](http://imgur.com/a/HoF9T)
 
 > + Added two new versions; one based off Saigyouji Yuyuko and one off Fate Testarossa
 > + Changed cursor color to yellow for visibility
