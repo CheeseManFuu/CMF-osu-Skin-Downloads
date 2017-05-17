@@ -1,20 +1,38 @@
-## CMF v.17-04-27
+## CMF v.17-05-16
 
 Downloads:
 
-Vanilla
+[Vanilla](https://puu.sh/vSnOC/07ceb0817a.osk)
 
-Spectator
+[Spectator](https://puu.sh/vSnPJ/972769ec2c.osk)
 
-Yuyuko
+[Yuyuko](https://puu.sh/vSnQC/0a1dd45dde.osk)
 
-Testarossa
+
+> + New Hitcircle number font (Ubuntu-Title)
+> + New Score numbers font (Days)
+> Small bump for new github page
+
+
+## CMF v.17-04-27
+
+MORE HD-IFYING
+
+Downloads:
+
+[Vanilla](https://puu.sh/vxBKO/c49e3a8789.osk)
+
+[Spectator](https://puu.sh/vxBLw/d287e10bcb.osk)
+
+[Yuyuko](https://puu.sh/vxBN0/4487218769.osk)
+
+[Testarossa](https://puu.sh/vxBNv/3ebaa3fa6e.osk)
 
 > - Removed Cursor Trail from all except Spectator
 > + Added hitcircle numbers
 > + Added new followpoints
 > + New menu background
-> + Changed default to bubble no-dot filled circle, remember alternates folder exists to change this
+> + Changed default hitcircle to bubble no-dot filled circle, remember alternates folder exists to change this
 > + Redid Menu button
 > + Redid Back button
 > + Emphasized ranking letters more
@@ -34,13 +52,13 @@ HUGE HD-IFYING UPDATE
 
 Downloads:
 
-Vanilla
+[Vanilla](https://puu.sh/vgqbe/fac7cf736f.osk)
 
-Spectator
+[Spectator](https://puu.sh/vgqc6/7c2e2844ba.osk)
 
-Yuyuko
+[Yuyuko](https://puu.sh/vgqdg/576a08449f.osk)
 
-Testarossa
+[Testarossa](https://puu.sh/vgqdT/081b7cc58c.osk)
 
 > + Added a lot more options in the /alternates/ folder
 > + Finally changed approach circle
@@ -52,20 +70,21 @@ Testarossa
 > + Redid Ranks, more flashy and portraits are more complete
 > + New Score numbers, using Osaka Sans-Serif
 > + Redid Section Pass/Fail again
+> + New Score BG
 
 * * *
 
-## CMF v.17-02-26
+## CMF v.17-02-27
 
 Downloads:
 
-Vanilla
+[Vanilla](http://puu.sh/ulBY5/8f7f62df09.osk)
 
-Spectator
+[Spectator](http://puu.sh/ulC0G/203a21de75.osk)
 
-Yuyuko
+[Yuyuko](http://puu.sh/ulC2n/3a1dcc8032.osk)
 
-Testarossa
+[Testarossa](http://puu.sh/ulC4b/e3c4247f90.osk
 
 > + Added another version; getting rid of waifus because some people are "cleaner" than others
 > + Added Hijiri portraits to vanilla skin, will improve later
@@ -77,11 +96,11 @@ Testarossa
 
 Downloads:
 
-Vanilla
+[Vanilla](http://puu.sh/tGfcE/99f0a0efb5.osk)
 
-Yuyuko
+[Yuyuko](http://puu.sh/tGfdK/3884907cb1.osk)
 
-Testarossa
+[Testarossa](http://puu.sh/tMfPs/5d61eb591e.osk)
 
 > + Added two new versions; one based off Saigyouji Yuyuko and one off Fate Testarossa
 > + Changed cursor color to yellow for visibility
@@ -96,7 +115,7 @@ Testarossa
 
 Downloads:
 
-Vanilla
+[Vanilla](http://puu.sh/tnPOD/3f723464e6.osk)
 
 > Woo new font this one is promising
 > + Removed follow points wholey
@@ -117,9 +136,9 @@ Vanilla
 
 Downloads:
 
-Vanilla
+[Vanilla](http://puu.sh/sLzyY/f0399b690a.osk)
 
-No Follow Points
+[No Follow Points](http://puu.sh/sLzA4/a4d1b9a894.osk)
 
 > + Organized spare assets more nicely
 > + Old menu stuff (mainly Angies New House font stuff) in /alternates/
@@ -136,9 +155,9 @@ No Follow Points
 
 Downloads:
 
-Vanilla
+[Vanilla](http://puu.sh/slYn1/bfea7f64f4.osk)
 
-No Follow Points
+[No Follow Points](http://puu.sh/slYkt/d273921b74.osk)
 
 > + The birth of something new.
 > + Gang of Three font hit judge numbers and score numbers
@@ -151,3 +170,4 @@ No Follow Points
 > + Custom Section Pass/Fail
 > + Monochrome Hitcircles/Sliders
 > + Red cursor stolen and changed from Shige's skin and SameSkinButNoRingHitCirclesWeirdName
+> + Custom Playfield w/ Modified Health Bar from SameSkinButNoRingHitCirclesWeirdName
