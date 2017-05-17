@@ -5,7 +5,7 @@ Important notes:
 
 The root of the skins' folders contains a folder, /alternates/. This folder is exactly as it sounds.
 
-The root of the skins' folder contains a document called "picture credits.txt." This folder contains Danbooru links to images used and the fonts used in the skin. If I'm missing something, please tell me.
+The root of the skins' folders contains a document called "picture credits.txt." This folder contains Danbooru links to images used and the fonts used in the skin. If I'm missing something, please tell me.
 
 * * *
 
@@ -21,7 +21,7 @@ Downloads:
 
 [Testarossa](https://puu.sh/vSnR6/2c09af09e4.osk) - [Screenshots](http://imgur.com/a/DDhEG)
 
-> + New Hitcircle number font (Ubuntu-Title)
+> + New Hitcircle numbers font (Ubuntu-Title)
 > + New Score numbers font (Days)
 > 
 > Small bump for new github page
@@ -42,7 +42,7 @@ Downloads:
 
 [Testarossa](https://puu.sh/vxBNv/3ebaa3fa6e.osk)
 
-> - Removed Cursor Trail from all except Spectator
+> + Removed Cursor Trail from all except Spectator
 > + Added hitcircle numbers
 > + Added new followpoints
 > + New menu background
@@ -180,7 +180,7 @@ Downloads:
 > + Custom Menu Backgrounds (see picture credits.txt)
 > + Music Warrior font ranks and menu buttons/titles
 > + Custom, basic ranking menu
-> + Music Warriot font Modifier buttons
+> + Music Warrior font Modifier buttons
 > + Custom Spinner meter
 > + Custom is sometimes lightly used
 > + Custom Section Pass/Fail
