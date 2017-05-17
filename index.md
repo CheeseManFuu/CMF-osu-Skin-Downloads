@@ -1,3 +1,14 @@
+Linked from [my osu! page.](https://osu.ppy.sh/u/5706305)
+
+
+Important notes:
+
+The root of the skins' folders contains a folder, /alternates/. This folder is exactly as it sounds.
+
+The root of the skins' folder contains a document called "picture credits.txt." This folder contains Danbooru links to images used and the fonts used in the skin. If I'm missing something, please tell me.
+
+* * *
+
 ## CMF v.17-05-16
 
 Downloads:
@@ -8,6 +19,7 @@ Downloads:
 
 [Yuyuko](https://puu.sh/vSnQC/0a1dd45dde.osk)
 
+[Testarossa](https://puu.sh/vSnR6/2c09af09e4.osk)
 
 > + New Hitcircle number font (Ubuntu-Title)
 > + New Score numbers font (Days)
