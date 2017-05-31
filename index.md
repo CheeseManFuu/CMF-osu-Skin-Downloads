@@ -7,6 +7,34 @@ The root of the skins' folders contains a folder, /alternates/. This folder is e
 
 The root of the skins' folders contains a document called "picture credits.txt." This folder contains Danbooru links to images used and the fonts used in the skin. If I'm missing something, please tell me.
 
+As for every version, please tell me if there is a problem that you've found in any of the variants with anything skin-related or credit related, or simply PM me for suggestions (please i need more cool, free-to-use fonts).
+
+* * *
+
+## CMF v.17-05-30
+
+Downloads:
+
+[Vanilla](https://puu.sh/w61ly/81492c6175.osk) - [Screenshots](http://imgur.com/a/v40Om)
+
+[Spectator](https://puu.sh/w61mS/84e3985c31.osk) - [Screenshots](http://imgur.com/a/NSrua)
+
+[Yuyuko](https://puu.sh/w61p4/068733fac7.osk) - [Screenshots](http://imgur.com/a/L9C9H)
+
+[Testarossa](https://puu.sh/w61nQ/d524c5890f.osk) - [Screenshots](http://imgur.com/a/SD3z7)
+
+> + Redid a large amount of menu words with the Days font, almost entirely taking out Osaka-Sans-Serif (still on the mod buttons tho, can't find anything better)
+> + Redid hit judge numbers again, now also Days font
+> + Fixed the ranking panel not fitting right with 100.00% accuracy
+> + Finally redid the input panel and RPM meter
+> + Redid bottom option selections
+> + Fixed a couple hitcircle colors on the other skins (mainly the Yuyuko and Testarossa version)
+> + Changed what hitcircle is default once again, in hopes I'll make up my mind with one single hitcircle type (again all other variants are in /alternates/)
+>
+> RIP Gang of Three (variants of Gang of Three still in /alternates/)
+>
+> Will look into changing the sounds at some point, or adding new ones to /alternates/, but waayy too lazy and busy with the visual aspects to look into it now
+
 * * *
 
 ## CMF v.17-05-16
