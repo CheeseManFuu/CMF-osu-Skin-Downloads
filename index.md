@@ -3,11 +3,38 @@ Linked from [my osu! page.](https://osu.ppy.sh/u/5706305)
 
 Important notes:
 
-The root of the skins' folders contains a folder, /alternates/. This folder is exactly as it sounds.
+The root of the skins' folders contains a folder, /alternates/. This folder is exactly as it sounds, which includes things from older versions.
 
 The root of the skins' folders contains a document called "picture credits.txt." This folder contains Danbooru links to images used and the fonts used in the skin. If I'm missing something, please tell me.
 
-As for every version, please tell me if there is a problem that you've found in any of the variants with anything skin-related or credit related, or simply PM me for suggestions (please i need more cool, free-to-use fonts).
+As for every version, please tell me if there is a problem that you've found in any of the variants with anything skin-related or credit related, or simply PM me for suggestions.
+
+* * *
+
+## CMF v.17-06-14
+
+Downloads:
+
+[Vanilla](https://puu.sh/wkouu/061a26472c.osk) - [Screenshots](http://imgur.com/a/m2cPv)
+
+[Spectator](https://puu.sh/wkowG/7b6cbb9682.osk) - [Screenshots](http://imgur.com/a/MVyq7)
+
+[Yuyuko](https://puu.sh/wkoza/990732495f.osk) - [Screenshots](http://imgur.com/a/TWmlS)
+
+[Testarossa](https://puu.sh/wkoxR/0ce7e984a6.osk) - [Screenshots](http://imgur.com/a/BJSRm)
+
+> + Redid menu button backgrounds, more opaque, removed reused asset from main skin in spectator skin
+> + Redid input panel, now it's actually pretty, might leave RPM meter
+> + Redid Warning Arrow
+> + Removed Scorebar BG (playfield box)
+> + Redid Main and Yuyuko Pause and Fail Screens. Can't find any good Fate pictures for it.
+> + YET ANOTHER FONT FOR THE HITCIRCLE NUMBERS (Multicolore)
+> + New Ranking Font (plus redone effects) (Prosto Sans)
+> + New Difficulty Stars (I'M SO PROUD OF THE YUYUKO ONE TBH)
+> + New Spinner RPM Meters
+> + Spectator Skin now has a unique HP Bar color, Redid others
+>
+> Still planning to add new sounds
 
 * * *
 
