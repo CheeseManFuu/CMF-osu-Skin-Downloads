@@ -11,6 +11,39 @@ As for every version, please tell me if there is a problem that you've found in 
 
 * * *
 
+## CMF v.17-07-20
+
+Wanted to push this out sooner, but inspiration kept happening and time is convoluted.
+
+Downloads:
+
+[Vanilla](https://puu.sh/wORc1/6b001b048a.osk) - [Screenshots](http://imgur.com/a/mvmpD)
+
+[Spectator](https://puu.sh/wORe3/ef91950f9c.osk) - [Screenshots](http://imgur.com/a/1UhMr)
+
+[Minimal](https://puu.sh/wOReN/7ee976aecc.osk) - [Screenshots](http://imgur.com/a/SpWgh)
+
+[Yuyuko](https://puu.sh/wORfN/7d7e73f7be.osk) - [Screenshots](http://imgur.com/a/YLQ5i)
+
+[Testarossa](https://puu.sh/wORh4/1d62066ed3.osk) - [Screenshots](http://imgur.com/a/yj65c)
+
+> + New Skin Variant: Minimal - Minimal Assets for Gameplay and some Interfaces, with some designs made simpler, mostly monochrome
+> + Redid the hitcircle overlays, hopefully this should be the last revision unless a new design catches my eye
+> + Replaced Warning Arrow with a variant of the Warning Arrow I made for the remake of SameSkinButNoRingHitCirclesWeirdName
+> + Replaced Reverse Arrow with the remake I did for the remake of SameSkinButNoRingHitCirclesWeirdName
+> + Redid Mod buttons, now use Porter font, redid portraits on some
+> + Replaced Approach Circle with the remake from SameSkinButHDWeirdName
+> + Redid cursors and added new variants
+> + Replaced Followpoints with, again, ones from SameSkinButHDWeirdName
+> + shut up i'm proud of SameSkinButHDWeirdName
+> + Resized Hitcircle Numbers
+> + Fixed a REALLY DUMB TYPO IN THE SKIN.INI
+> + New Difficulty Star for Minimal and Spectator
+>
+> Still planning to add new sounds
+
+* * *
+
 ## CMF v.17-06-14
 
 Downloads:
