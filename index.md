@@ -9,6 +9,25 @@ The root of the skins' folders contains a document called "picture credits.txt."
 
 As for every version, please tell me if there is a problem that you've found in any of the variants with anything skin-related or credit related, or simply PM me for suggestions.
 
+
+* * *
+
+## CMF v.17-08-23
+
+Hoo boy. This one was a doozie, but I had fun doing it, honestly.
+
+Download:
+
+[Version 2.0](https://puu.sh/x2Ml1/28f8226ba5.png) - [Screenshots](http://imgur.com/a/y7brE)
+
+> + I have completely started from scratch and everything that isn't a sound should be original. Older versions may not be further developed in the future, but I have kept a copy of my Non-Release in case I need to go back.
+> + Everything is overhauled and (hopefully) consistent, and should be pretty-ish.
+> + Honestly not sure how to describe the basis of the design of the elements, so you'll just kinda have to judge it for yourself in-game and through the screenshots, but I like the in-game more than the menu HUD.
+> + Probably the best skin I've originally made, which is totally a high bar.
+> + Quite an amount of options of alternatives (including preset color themes, the cyan-teal-blue by default, I encourage mixing and matching!)
+> + Literally the only (visual) thing that hasn't changed between this and the old versions of the skin are the ranking letters because they're already perfect tbh (and maybe also the spectator diff star)
+> + Make sure to read .txt's before applying any alternates
+
 * * *
 
 ## CMF v.17-07-20
