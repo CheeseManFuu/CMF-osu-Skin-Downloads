@@ -18,7 +18,7 @@ Hoo boy. This one was a doozie, but I had fun doing it, honestly.
 
 Download:
 
-[Version 2.0](https://puu.sh/x2Ml1/28f8226ba5.png) - [Screenshots](http://imgur.com/a/y7brE)
+[Version 2.0](https://puu.sh/xi4lb/4f1f429e86.osk) - [Screenshots](http://imgur.com/a/y7brE)
 
 > + I have completely started from scratch and everything that isn't a sound should be original. Older versions may not be further developed in the future, but I have kept a copy of my Non-Release in case I need to go back.
 > + Everything is overhauled and (hopefully) consistent, and should be pretty-ish.
