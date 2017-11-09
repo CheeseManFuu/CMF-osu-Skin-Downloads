@@ -9,6 +9,31 @@ The root of the skins' folders contains a document called "picture credits.txt."
 
 As for every version, please tell me if there is a problem that you've found in any of the variants with anything skin-related or credit related, or simply PM me for suggestions.
 
+**Apparently, puush now just randomly gets rid of files after a certain amount of time, so a bunch of the skin downloads (especially the older ones) are unavailable for the time being. I'll have to look into Mediafire, Dropbox, or git-host or something.**
+
+* * *
+
+## CMF v.17-11-08
+
+Wow. It's been forever. I literally haven't been inspired until like two days ago. And then I went on the skinning grind. And here we are.
+
+Download:
+
+[Version 2.0](https://puu.sh/yhU3m/cb256327e2.osk) - [Screenshots](https://imgur.com/a/QKK5A)
+
+> + Reshaped HP bar. Probably makes a bit more sense from a designing standpoint, now.
+> + Mixed and matched the colors from the various themes before (really only for the arrows)
+> + Not everything is a weird cyan-blue color anymore. The only things that are are button-related things. Except Beatmap Option buttons.
+> + Cursor(trail)s are redone, and hopefully should look better.
+> + Circles aren't anything too fancy anymore. The hitcircle coloring, however, is slightly gradiented. More significant gradienting on slider circles.
+> + Menu background now isn't an eyesore.
+> + Ranking panel isn't eyesore and looks a bit more organized.
+> + Green ranking graph is now the default.
+> + Section Fail and Pass look nice, now. That's all I can really say about it.
+> + Cinema mod button is now unique. Don't know how that slipped past me three months ago (how is it already november)
+> + Pretty much nothing should have the scanline pattern on them anymore. Spinner and HP included.
+> + Combo Numbers are slghtly larger and fit the circle better.
+> + Combo Colors are slightly prettier now.
 
 * * *
 
